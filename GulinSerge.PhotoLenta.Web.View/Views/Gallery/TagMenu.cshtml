@@ -1,0 +1,9 @@
+﻿@using GulinSerge.PhotoLenta.Web.Model.ViewModels.Controls
+@model TagMenuState
+<ul id="tagMenu" class="nav nav-tabs nav-stacked">
+	<li @(Model.CurrentTagWeb == null ? "class=active" : "") ><a href="#">Все&nbsp;(@Model.AllCount)</a></li>
+	@foreach(TagWeb t in Model.Tags)
+	{
+		<li @(Model.CurrentTagWeb == t ? "class=active" : "")><a href="#">@t.DisplayName&nbsp;(@t.Weight)</a></li>
+	}
+</ul>

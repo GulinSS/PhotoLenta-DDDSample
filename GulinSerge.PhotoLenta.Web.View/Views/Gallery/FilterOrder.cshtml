@@ -1,0 +1,6 @@
+﻿@using GulinSerge.PhotoLenta.Domain.Services
+@model FilterOrderType
+<div id="filterOrder">
+	<a href="#" class="btn @(Model == FilterOrderType.ByTime ? "btn-primary" : "")">Новые</a>
+	<a href="#" class="btn @(Model == FilterOrderType.ByRating ? "btn-primary" : "")">Популярные</a>
+</div>

@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="GulinSerge.PhotoLenta.Web.View.MvcApplication" Language="C#" %>

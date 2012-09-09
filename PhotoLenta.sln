@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.PhotoLenta.Web.View", "GulinSerge.PhotoLenta.Web.View\GulinSerge.PhotoLenta.Web.View.csproj", "{23E40E00-FDAB-4D36-A2DC-B4E0BF9798AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.PhotoLenta.Web.Model", "GulinSerge.PhotoLenta.Web.Model\GulinSerge.PhotoLenta.Web.Model.csproj", "{8E015A9A-A547-4C5D-B591-AE945D46685E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.Common", "GulinSerge.Common\GulinSerge.Common.csproj", "{A6A023B4-8364-44AA-881B-A545E8F51354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.PhotoLenta.Web.Stubs", "GulinSerge.PhotoLenta.Web.Stubs\GulinSerge.PhotoLenta.Web.Stubs.csproj", "{AEB51C42-F586-4F21-903F-AFF7C6EA8085}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{0BF049F8-2DEE-4ED3-B6E7-9F427BC2B540}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{F9DCCC65-535C-4438-ADEC-CE00CC3C618A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{EA820794-C463-4AF3-9F42-A97079977AFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{81552F08-EC44-4254-B9BF-E5D4900A3165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.PhotoLenta.Domain", "GulinSerge.PhotoLenta.Domain\GulinSerge.PhotoLenta.Domain.csproj", "{963CD2A2-4F28-4498-B18C-B07E8875F928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.PhotoLenta.Domain.Implementors", "GulinSerge.PhotoLenta.Domain.Implementors\GulinSerge.PhotoLenta.Domain.Implementors.csproj", "{C88F4A22-4D3C-41B1-A0E2-A3BE95EABFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.PhotoLenta.Domain.Mapping", "GulinSerge.PhotoLenta.Domain.Mapping\GulinSerge.PhotoLenta.Domain.Mapping.csproj", "{AFC83C69-B06D-411B-B3EC-78D1EFD1AF33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GulinSerge.Common.NhibernateAdditions", "GulinSerge.Common.NhibernateAdditions\GulinSerge.Common.NhibernateAdditions.csproj", "{F718FA36-1FA0-4717-A22A-48B287A5C607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E40E00-FDAB-4D36-A2DC-B4E0BF9798AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E40E00-FDAB-4D36-A2DC-B4E0BF9798AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E40E00-FDAB-4D36-A2DC-B4E0BF9798AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E40E00-FDAB-4D36-A2DC-B4E0BF9798AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E015A9A-A547-4C5D-B591-AE945D46685E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E015A9A-A547-4C5D-B591-AE945D46685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E015A9A-A547-4C5D-B591-AE945D46685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E015A9A-A547-4C5D-B591-AE945D46685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A023B4-8364-44AA-881B-A545E8F51354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A023B4-8364-44AA-881B-A545E8F51354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A023B4-8364-44AA-881B-A545E8F51354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A023B4-8364-44AA-881B-A545E8F51354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB51C42-F586-4F21-903F-AFF7C6EA8085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB51C42-F586-4F21-903F-AFF7C6EA8085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB51C42-F586-4F21-903F-AFF7C6EA8085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB51C42-F586-4F21-903F-AFF7C6EA8085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963CD2A2-4F28-4498-B18C-B07E8875F928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963CD2A2-4F28-4498-B18C-B07E8875F928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963CD2A2-4F28-4498-B18C-B07E8875F928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963CD2A2-4F28-4498-B18C-B07E8875F928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88F4A22-4D3C-41B1-A0E2-A3BE95EABFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88F4A22-4D3C-41B1-A0E2-A3BE95EABFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88F4A22-4D3C-41B1-A0E2-A3BE95EABFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88F4A22-4D3C-41B1-A0E2-A3BE95EABFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC83C69-B06D-411B-B3EC-78D1EFD1AF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC83C69-B06D-411B-B3EC-78D1EFD1AF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC83C69-B06D-411B-B3EC-78D1EFD1AF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC83C69-B06D-411B-B3EC-78D1EFD1AF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F718FA36-1FA0-4717-A22A-48B287A5C607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F718FA36-1FA0-4717-A22A-48B287A5C607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F718FA36-1FA0-4717-A22A-48B287A5C607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F718FA36-1FA0-4717-A22A-48B287A5C607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23E40E00-FDAB-4D36-A2DC-B4E0BF9798AE} = {0BF049F8-2DEE-4ED3-B6E7-9F427BC2B540}
+		{8E015A9A-A547-4C5D-B591-AE945D46685E} = {F9DCCC65-535C-4438-ADEC-CE00CC3C618A}
+		{963CD2A2-4F28-4498-B18C-B07E8875F928} = {F9DCCC65-535C-4438-ADEC-CE00CC3C618A}
+		{C88F4A22-4D3C-41B1-A0E2-A3BE95EABFAF} = {F9DCCC65-535C-4438-ADEC-CE00CC3C618A}
+		{AFC83C69-B06D-411B-B3EC-78D1EFD1AF33} = {F9DCCC65-535C-4438-ADEC-CE00CC3C618A}
+		{A6A023B4-8364-44AA-881B-A545E8F51354} = {EA820794-C463-4AF3-9F42-A97079977AFA}
+		{F718FA36-1FA0-4717-A22A-48B287A5C607} = {EA820794-C463-4AF3-9F42-A97079977AFA}
+		{AEB51C42-F586-4F21-903F-AFF7C6EA8085} = {81552F08-EC44-4254-B9BF-E5D4900A3165}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.PhotoLenta.Domain.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.PhotoLenta.Domain.pdb
+D:\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.Common.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.Common.pdb
+D:\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\obj\Debug\GulinSerge.PhotoLenta.Domain.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\obj\Debug\GulinSerge.PhotoLenta.Domain.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.PhotoLenta.Domain.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.PhotoLenta.Domain.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.Common.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\bin\Debug\GulinSerge.Common.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\obj\Debug\GulinSerge.PhotoLenta.Domain.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.PhotoLenta.Domain\obj\Debug\GulinSerge.PhotoLenta.Domain.pdb

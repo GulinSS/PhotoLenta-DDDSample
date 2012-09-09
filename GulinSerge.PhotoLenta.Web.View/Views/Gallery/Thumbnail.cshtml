@@ -1,0 +1,12 @@
+﻿@model GulinSerge.PhotoLenta.Web.Model.ViewModels.Controls.Thumbnail
+<div class="thumbnail">
+	<a href="@Url.Action("Full", "Photo", new{id=Model.Link.ID})">
+		<img src="@Url.Action("Thumbnail", "Photo", new{id=Model.Link.ID})"/>
+	</a>
+	<div class="caption">
+		<img src="@Model.User.AvatarUrl" />
+		<a href="@Url.Action("Increment", "Gallery", new{id=Model.Link.ID})" class="btn @(Model.CanIncrement ? "" : "disabled") pull-right">@Model.Rating</a>
+		<div class="cf">
+		</div>
+	</div>
+</div>

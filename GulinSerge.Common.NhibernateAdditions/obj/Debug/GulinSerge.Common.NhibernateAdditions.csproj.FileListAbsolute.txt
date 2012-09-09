@@ -1,0 +1,16 @@
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.NhibernateAdditions.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.NhibernateAdditions.pdb
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\NHibernate.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.pdb
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\obj\Debug\ResolveAssemblyReference.cache
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\obj\Debug\GulinSerge.Common.NhibernateAdditions.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\obj\Debug\GulinSerge.Common.NhibernateAdditions.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.NhibernateAdditions.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.NhibernateAdditions.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\NHibernate.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\bin\Debug\GulinSerge.Common.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\obj\Debug\ResolveAssemblyReference.cache
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\obj\Debug\GulinSerge.Common.NhibernateAdditions.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common.NhibernateAdditions\obj\Debug\GulinSerge.Common.NhibernateAdditions.pdb

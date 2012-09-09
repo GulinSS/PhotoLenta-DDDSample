@@ -1,0 +1,10 @@
+D:\LocalRepository\PhotoLenta\GulinSerge.Common\bin\Debug\GulinSerge.Common.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.Common\bin\Debug\GulinSerge.Common.pdb
+D:\LocalRepository\PhotoLenta\GulinSerge.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\LocalRepository\PhotoLenta\GulinSerge.Common\obj\Debug\GulinSerge.Common.dll
+D:\LocalRepository\PhotoLenta\GulinSerge.Common\obj\Debug\GulinSerge.Common.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common\bin\Debug\GulinSerge.Common.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common\bin\Debug\GulinSerge.Common.pdb
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common\obj\Debug\GulinSerge.Common.dll
+D:\Old\disk_D\LocalRepository\PhotoLenta\GulinSerge.Common\obj\Debug\GulinSerge.Common.pdb

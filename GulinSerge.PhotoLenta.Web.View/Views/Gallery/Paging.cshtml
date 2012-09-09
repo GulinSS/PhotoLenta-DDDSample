@@ -1,0 +1,17 @@
+﻿@model GulinSerge.PhotoLenta.Web.Model.ViewModels.Controls.PagingState
+<div id="paging" class="pagination">
+	<ul>
+		@if(Model.CurrentPage != Model.MinCurrentPage)
+		{
+			<li><a href="#">&laquo;</a></li>
+		}
+		@for(int i = Model.MinCurrentPage; i < Model.MaxCurrentPage; i++)
+		{
+			<li @(i == Model.CurrentPage ? "class=\"active\"" : "")><a href="#">@i</a></li>
+		}
+		@if(Model.CurrentPage != Model.MaxCurrentPage)
+		{
+			<li><a href="#">&raquo;</a></li>
+		}
+	</ul>
+</div>
